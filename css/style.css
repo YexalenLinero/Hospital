@@ -37,7 +37,7 @@ body{
 }
 .login #right-login {
     position: absolute;
-    background-color: teal
+    background-color: white
     left: 50%;
     width: 50%;
     height: 100%;
